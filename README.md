@@ -1,1 +1,1 @@
-https://github.com/ksuSokoll/ono-tebe-nado-ad.git
+https://github.com/ksuSokoll/ono-tebe-nado-ad.git 
